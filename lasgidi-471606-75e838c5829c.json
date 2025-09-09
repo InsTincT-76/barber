@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lasgidi-471606",
+  "private_key_id": "75e838c5829c5bbcb55c7e118277ba53f9b6e117",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdZqWNfoxjZoHs\nk/RGrfYWXdbPupEmSXJNGdwZU+BMNVayX4vgEdKXWZU3E7itoVhBxYvoNUWwvaGJ\nrFxQLEwv5i7UaPyMuMD/YoJkBsbJceNVzMrVE2bYilWj65Dz8X+gZOi1CyzphuLH\nOh9JT/o5uKieLSqW9n8wwkpMVw18BV2TEWGHGMTWMKuCIaBpLtVnSIWjCGG4rBh6\npsZksHL4nxfd96Pm8aKuv4/jFKgBmfqkclcoi5aExqvZ20w2bJuYHtY9GcQ1y1Dd\nGrSivuYqxkY3fdf0EFMCBmk/ZG9H+C08icDwnwOiG6wH2Pm6ZDeEpgZ/bvmu06jd\n8EcirZzRAgMBAAECggEAAOkGDhJsR2rhV3fnkr0QzkJOqrbefgUwtwduQWs9wdMR\nJEjvKyWPPTbUaRQhHkfvlbnJvFcKhyIhnAU2J3SKIEDJhorw4vNykkeEj4WGgsW4\n1dcwWRkaoCf0pNUI6pA797Z9rgZZhSQ1jYdlhOwEe2748qk6NNNKGwMUoOpj9pKj\nDCtFXDruklIuCjou8s9Fw/DzMQfBqIZvAa3+QEEgMQcMSRiHOzJoyHLo5XrfLaSM\nw+0tF7mRtcnDVfTKvaxM9JC4AVgJop60QAy2O8dkLAs671bOSndUVKk52Yq78SNg\n2s08qkA4G3NGkMV3xqT4iGHfD28/mI7xm/BUV1b6wQKBgQDP4WciL4XU7f5YpaT6\nQUaMr6uv3yfj19MaCgFe0UmsSV3/Lv0mtp//KrQFVIyfwhLig8K0y+GHpYD9P2yB\nqUNvhCXOwVLqXsgzj/+cL27db+sJb324w9H6z953praaYJyKbRMLgUjLeG87RHy4\nF7cGTPPk4ePlFWFQXhQu1AqjyQKBgQDB1ezCt/e2/1SHRbVE5OMq2kDh79EqmzaG\nIZ4Fd3P78UmqfHHTKHTGvFDhbZcfirAFkYcX9YwLQOUB3+tH34oDpBD14REqc311\n8/h0qECIGSY6Xs22TuVSH4rkPnK9WUtuALXjCWuXoEvWueGgzLnoB3cRMpyfMxZe\nqG3OOtTkyQKBgChIqc+6HdkxdYSANQQ5+g3xTPf76qMAg+wb3EAfloNIhGqbFHuY\nEFFGWTRfOhELbtVuayDWEZJTxDdPPxuxTVwi46C5XfQFAg7b7NC7cGSA968QZ/CS\nIfLUrWvKZsBr0GoS0Qn9t7mWURfPIcwa7GDQMMM98wfFqOIGGSsp9BXhAoGAWYu+\naOYcJgomvqdRapZi67UQLFBhzNEPiz+UhOn+RvHdGkmLPAWAjR8KLlo2anfjgW8N\nfeAN5lUAdrE/PGDknXH5890Z1QatewROT3Y6+aTEqEqLtiEUh6/StkazMw5Bbnwd\nitkbP1zqLDSLK4HokGyCcQt0l4c+WlRtBczf9SECgYBMdA+nJfCspxAwm372elXz\ndNiKTfRqi5GJcW8XMmnDqdrvJEP320ChRwREWuisCajFzQGiPlauWCp3Fh8g6q16\nUKpMN1eKADF07km7jyvOE63/dUIXWfEg0UlRdEMrjI+kMdI2KEEVIXXDUKclm6u5\nKA5jNaAbNJEnh1+oQCct/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lasgidi@lasgidi-471606.iam.gserviceaccount.com",
+  "client_id": "118007721469259728897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lasgidi%40lasgidi-471606.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
